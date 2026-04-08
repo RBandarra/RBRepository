@@ -1,1 +1,1 @@
-test
+#ficheiro para testes
